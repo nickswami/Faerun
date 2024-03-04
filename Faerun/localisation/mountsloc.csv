@@ -1,40 +1,40 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 #####################ARTIFACTS#####################
-amazon_tiger;Tiger;;;;;;;;;;;;;x
-amazon_tiger_desc;An Ferocius Tiger from the jungles of lustria tamed by the Amazon warriors.;;;;;;;;;;;;;x
+amazon_tiger;Dire Tiger;;;;;;;;;;;;;x
+amazon_tiger_desc;An Ferocius Tiger.;;;;;;;;;;;;;x
 Stonehorn;Stonehorn;;;;;;;;;;;;;x
 Stonehorn_desc;Stonehorns are massive beasts of muscle and violence, each several times the size of a Rhinox and - if it can be believed - several times as dense. Intelligence is of little import to these great beasts however, for each Stonehorn is quite literally a living fossil, its skeleton hardened by the same rock as the mountains where it makes its home.;;;;;;;;;;;;;x
 Mournfang;Mournfang;;;;;;;;;;;;;x
 Mournfang_desc;the Mournfang. Aggressive predators that resemble a blend between the shaggy Rhinoxen and the ferocious Sabretusk, Mournfang packs are led by the largest of their kind and, working together, they can hunt and kill anything that lives in that harsh domain.;;;;;;;;;;;;;x
 ##prefixes   #add space after word here, Z for single, B for double
-mount_prefix_fair_robust;§BNoble§! ;;;;;;;;;;;;;x
-mount_prefix_fair_fertile;§BArdent§! ;;;;;;;;;;;;;x
-mount_prefix_fair_powerful;§BForceful§! ;;;;;;;;;;;;;x
-mount_prefix_fair_swift;§BElegant§! ;;;;;;;;;;;;;x
-mount_prefix_robust_fertile;§BVigorous§! ;;;;;;;;;;;;;x
-mount_prefix_robust_powerful;§BImposing§! ;;;;;;;;;;;;;x
-mount_prefix_robust_swift;§BSpirited§! ;;;;;;;;;;;;;x
-mount_prefix_fertile_powerful;§BDominant§! ;;;;;;;;;;;;;x
-mount_prefix_fertile_swift;§BEcstatic§! ;;;;;;;;;;;;;x
-mount_prefix_powerful_swift;§BThundering§! ;;;;;;;;;;;;;x
+mount_prefix_fair_robust;Â§BNobleÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fair_fertile;Â§BArdentÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fair_powerful;Â§BForcefulÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fair_swift;Â§BElegantÂ§! ;;;;;;;;;;;;;x
+mount_prefix_robust_fertile;Â§BVigorousÂ§! ;;;;;;;;;;;;;x
+mount_prefix_robust_powerful;Â§BImposingÂ§! ;;;;;;;;;;;;;x
+mount_prefix_robust_swift;Â§BSpiritedÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fertile_powerful;Â§BDominantÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fertile_swift;Â§BEcstaticÂ§! ;;;;;;;;;;;;;x
+mount_prefix_powerful_swift;Â§BThunderingÂ§! ;;;;;;;;;;;;;x
 ###basic prefixes and descs
-mount_prefix_fair;§ZFair§! ;;;;;;;;;;;;;x
-mount_prefix_robust;§ZRobust§! ;;;;;;;;;;;;;x
-mount_prefix_fertile;§ZFertile§! ;;;;;;;;;;;;;x
-mount_prefix_powerful;§ZPowerful§! ;;;;;;;;;;;;;x
-mount_prefix_swift;§ZSwift§! ;;;;;;;;;;;;;x
-mount_prefix_fair_desc;\n§ZFair:§! Gives bonus prestige and vassal opinion to owner.[GetMountPrefixDesc2];;;;;;;;;;;;;x
-mount_prefix_robust_desc;\n§ZRobust:§! Has a longer lifespan and less likely to lose health from random events.[GetMountPrefixDesc2];;;;;;;;;;;;;x
-mount_prefix_fertile_desc;\n§ZFertile:§! More likely to breed and can breed for a total of three times.[GetMountPrefixDesc2];;;;;;;;;;;;;x
-mount_prefix_powerful_desc;\n§ZPowerful:§! More effective in mounted close combat.[GetMountPrefixDesc2];;;;;;;;;;;;;x
-mount_prefix_swift_desc;\n§ZSwift:§! More effective in speed based mounted combat.[GetMountPrefixDesc2];;;;;;;;;;;;;x
-mount_prefix_immortal_desc;\n§ZImmortal:§! This mount will never die.[GetMountPrefixDesc2];;;;;;;;;;;;;x
-mount_prefix_fair_desc2;\n§ZFair:§! Gives bonus prestige and vassal opinion to owner.;;;;;;;;;;;;;x
-mount_prefix_robust_desc2;\n§ZRobust:§! Has a longer lifespan and less likely to lose health from random events.;;;;;;;;;;;;;x
-mount_prefix_fertile_desc2;\n§ZFertile:§! More likely to breed and can breed for a total of three times.;;;;;;;;;;;;;x
-mount_prefix_powerful_desc2;\n§ZPowerful:§! More effective in mounted close combat.;;;;;;;;;;;;;x
-mount_prefix_swift_desc2;\n§ZSwift:§! More effective in speed based mounted combat.;;;;;;;;;;;;;x
-mount_prefix_immortal_desc2;\n§ZImmortal:§! This mount will never die.;;;;;;;;;;;;;x
+mount_prefix_fair;Â§ZFairÂ§! ;;;;;;;;;;;;;x
+mount_prefix_robust;Â§ZRobustÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fertile;Â§ZFertileÂ§! ;;;;;;;;;;;;;x
+mount_prefix_powerful;Â§ZPowerfulÂ§! ;;;;;;;;;;;;;x
+mount_prefix_swift;Â§ZSwiftÂ§! ;;;;;;;;;;;;;x
+mount_prefix_fair_desc;\nÂ§ZFair:Â§! Gives bonus prestige and vassal opinion to owner.[GetMountPrefixDesc2];;;;;;;;;;;;;x
+mount_prefix_robust_desc;\nÂ§ZRobust:Â§! Has a longer lifespan and less likely to lose health from random events.[GetMountPrefixDesc2];;;;;;;;;;;;;x
+mount_prefix_fertile_desc;\nÂ§ZFertile:Â§! More likely to breed and can breed for a total of three times.[GetMountPrefixDesc2];;;;;;;;;;;;;x
+mount_prefix_powerful_desc;\nÂ§ZPowerful:Â§! More effective in mounted close combat.[GetMountPrefixDesc2];;;;;;;;;;;;;x
+mount_prefix_swift_desc;\nÂ§ZSwift:Â§! More effective in speed based mounted combat.[GetMountPrefixDesc2];;;;;;;;;;;;;x
+mount_prefix_immortal_desc;\nÂ§ZImmortal:Â§! This mount will never die.[GetMountPrefixDesc2];;;;;;;;;;;;;x
+mount_prefix_fair_desc2;\nÂ§ZFair:Â§! Gives bonus prestige and vassal opinion to owner.;;;;;;;;;;;;;x
+mount_prefix_robust_desc2;\nÂ§ZRobust:Â§! Has a longer lifespan and less likely to lose health from random events.;;;;;;;;;;;;;x
+mount_prefix_fertile_desc2;\nÂ§ZFertile:Â§! More likely to breed and can breed for a total of three times.;;;;;;;;;;;;;x
+mount_prefix_powerful_desc2;\nÂ§ZPowerful:Â§! More effective in mounted close combat.;;;;;;;;;;;;;x
+mount_prefix_swift_desc2;\nÂ§ZSwift:Â§! More effective in speed based mounted combat.;;;;;;;;;;;;;x
+mount_prefix_immortal_desc2;\nÂ§ZImmortal:Â§! This mount will never die.;;;;;;;;;;;;;x
 ##slots
 mount_type_horse;Horse;;;;;;;;;;;;;x
 mount_type_camel;Camel;;;;;;;;;;;;;x
@@ -101,53 +101,94 @@ cophic_camel_desc;The two humped Aguidi Camel is mostly used as a pack animal on
 ###Elephants
 ind_elephant;[GetMountPrefix]Ind Elephant;;;;;;;;;;;;;x
 ind_elephant_desc;A relatively small elephant yet still a terror on the battlefield.[GetMountPrefixDesc];;;;;;;;;;;;;x
-southlander_elephant;[GetMountPrefix]Southlander Elephant;;;;;;;;;;;;;x
-southlander_elephant_desc;The large Southlander Elephant is extremely slow, but can inflict devastating casualties on it's enemies.[GetMountPrefixDesc];;;;;;;;;;;;;x
+southlander_elephant;[GetMountPrefix]Elephant;;;;;;;;;;;;;x
+southlander_elephant_desc;The large Elephant is extremely slow, but can inflict devastating casualties on it's enemies.[GetMountPrefixDesc];;;;;;;;;;;;;x
 ###Misc
 lamassu_mount;[GetMountPrefix]Lamassu;;;;;;;;;;;;;x
+dire_wolf;[GetMountPrefix]Dire Wolf;;;;;;;;;;;;;x
+dire_wolf_desc;A ferocious wolf found in the forests of old world, it takes a brave soul indeed to try subjugating one.[GetMountPrefixDesc];;;;;;;;;;;;;x
 wolf;[GetMountPrefix]Wolf;;;;;;;;;;;;;x
 wolf_desc;A ferocious wolf found in the forests of old world, it takes a brave soul indeed to try subjugating one.[GetMountPrefixDesc];;;;;;;;;;;;;x
-war_bear_mount;[GetMountPrefix]Kislev Bear;;;;;;;;;;;;;x
-war_bear_mount_desc;This hardy bear has thick fur to ward off the harsh winters of the north.[GetMountPrefixDesc];;;;;;;;;;;;;x
-asrai_stag;[GetMountPrefix]Asrai Stag;;;;;;;;;;;;;x
-asrai_stag_desc;A skittish animal trained by the People of Athel Loren. It is more suited for skirmishing than close combat.[GetMountPrefixDesc];;;;;;;;;;;;;x
+dire_bear_mount;[GetMountPrefix]Dire Bear;;;;;;;;;;;;;x
+dire_bear_mount_desc;This hardy bear has thick fur to ward off the harsh winters of the north.[GetMountPrefixDesc];;;;;;;;;;;;;x
+bear_mount;[GetMountPrefix]Bear;;;;;;;;;;;;;x
+bear_mount_desc;This hardy bear has thick fur to ward off the harsh winters of the north.[GetMountPrefixDesc];;;;;;;;;;;;;x
+dire_stag;[GetMountPrefix]Dire Stag;;;;;;;;;;;;;x
+dire_stag_desc;A skittish animal it is more suited for skirmishing than close combat.[GetMountPrefixDesc];;;;;;;;;;;;;x
+stag;[GetMountPrefix]Stag;;;;;;;;;;;;;x
+stag_desc;A skittish animal it is more suited for skirmishing than close combat.[GetMountPrefixDesc];;;;;;;;;;;;;x
+### Mounts moved over from 00_traits.csv
+black_dragon_mount;Black Dragon Mount;;;;;;;;;;;;;x
+black_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. Black Dragons breathe out noxious fumes.;;;;;;;;;;;;;x
+blue_dragon_mount;Star Dragon Mount;;;;;;;;;;;;;x
+blue_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. Blue Dragons release lightning.;;;;;;;;;;;;;x
+red_dragon_mount;Sun Dragon Mount;;;;;;;;;;;;;x
+red_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. Red Dragons are amongst the most powerful of their kind, and breathe fire.;;;;;;;;;;;;;x
+gold_dragon_mount;Moon Dragon Mount;;;;;;;;;;;;;x
+gold_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. Gold are younger versions of Red Dragons, and breathe fire like their elders.;;;;;;;;;;;;;x
+chaos_dragon_mount;Chaos Dragon Mount;;;;;;;;;;;;;x
+chaos_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. Chaos Dragons have two heads, and their breath weapon is acid.;;;;;;;;;;;;;x
+green_dragon_mount;Forest Dragon Mount;;;;;;;;;;;;;x
+green_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. Green Dragons use corrosive fumes as their breath weapon attack.;;;;;;;;;;;;;x
+gryphon_mount;Griffon Mount;;;;;;;;;;;;;x
+gryphon_mount_desc;A Griffon is a powerful ally in battle, with the head of an eagle and the body of a lion. The beast is large enough for a general to ride upon, and he can swoop down on the battlefield to join at the critical moments, or soar high above, surveying the course of events and landing to give swift orders.;;;;;;;;;;;;;x
+wyvern_mount;Wyvern Mount;;;;;;;;;;;;;x
+wyvern_mount_desc;Typically used by powerful Greenskin generals, Wyverns - though not as powerful as dragons - are formidable adversaries and fierce fighters. They have a poison stinger which they use to great effect.;;;;;;;;;;;;;x
+pegasus_mount;Pegasus Mount;;;;;;;;;;;;;x
+pegasus_mount_desc;Pegasi are essentially very large flying horses, often used by mages and generals to soar high above the battlefield. They are loyal mounts, and offer many advantages in battle, not least the ability to strike anywhere on the battlefield by swooping down from the skies.;;;;;;;;;;;;;x
+white_dragon_mount;Frost Dragon Mount;;;;;;;;;;;;;x
+white_dragon_mount_desc;A Dragon mount is reserved for only the greatest and most powerful of generals, and is an invaluable aid on the battlefield. It can crush entire armies, and make the general almost unbeatable in duels, on the rare occasions someone is foolish enough to attempt an attack. White Dragons breathe a freezing mist which cripples and immobilizes its foes.;;;;;;;;;;;;;x
+dire_boar;Dire Boar;;;;;;;;;;;;;x
+dire_boar_desc;Boars of the are exceptionally ill-tempered and vicious beasts, two traits that the Orcs admire greatly, which is probably why so many have been taken as mounts for the Greenskin hordes. The impact that a charging boar can produce is considerable. Left to their own devices, boars generally root the ground for grubs and menace any creatures foolish enough to interrupt their feeding. Many boars have become entirely carnivorous as a result of the Orcs breeding the trait into their mounts, and then releasing them to mate with other wild boars.;;;;;;;;;;;;;x
+boar;Boar;;;;;;;;;;;;;x
+boar_desc;Boars of are exceptionally ill-tempered and vicious beasts, two traits that the Orcs admire greatly, which is probably why so many have been taken as mounts for the Greenskin hordes. The impact that a charging boar can produce is considerable. Left to their own devices, boars generally root the ground for grubs and menace any creatures foolish enough to interrupt their feeding. Many boars have become entirely carnivorous as a result of the Orcs breeding the trait into their mounts, and then releasing them to mate with other wild boars.;;;;;;;;;;;;;x
+boar_chariot;Boar Chariot;;;;;;;;;;;;;x
+giant_rat_mount;Dire Rat;;;;;;;;;;;;;x
+giant_rat_mount_desc;A simple mutation, which increases the size and ferocity of a normal rat to extreme amounts, so it can serve as a relatively cheap flanking unit or as a cheap mount.;;;;;;;;;;;;;x
+rat_mount;Rat;;;;;;;;;;;;;x
+rat_mount_desc;A simple mutation, which increases the size and ferocity of a normal rat to extreme amounts, so it can serve as a relatively cheap flanking unit or as a cheap mount.;;;;;;;;;;;;;x
+asur_artifact_great_eagle_mount;Dire Eagle;;;;;;;;;;;;;x
+asur_artifact_great_eagle_mount_desc;Dire Eagles are haughty creatures who long remember insults, and do not suffer foolish company gladly. They swoop down upon the crew of enemy war machines, tearing them apart with powerful talons before using mighty wings to glide swiftly away.;;;;;;;;;;;;;x
+eagle_mount; Eagle;;;;;;;;;;;;;x
+eagle_mount_desc;Eagles are haughty creatures who long remember insults, and do not suffer foolish company gladly. They swoop down upon the crew of enemy war machines, tearing them apart with powerful talons before using mighty wings to glide swiftly away.;;;;;;;;;;;;;x
+#####################Event Modifiers#####################
 #####################Event Modifiers#####################
 albion_mount_counter;Albionite Mount Heartlands;;;;;;;;;;;;;x
-albion_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §YAll Characters:§! 350\n\nUnique items available here:\n     §GHobby§!;;;;;;;;;;;;;x
+albion_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§YAll Characters:Â§! 350\n\nUnique items available here:\n     Â§GHobbyÂ§!;;;;;;;;;;;;;x
 breton_mount_counter;Bretonnian Mount Heartlands;;;;;;;;;;;;;x
-breton_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §YAll Characters:§! 250\n\nUnique items available here:\n     §GBrettonian Charger§!;;;;;;;;;;;;;x
+breton_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§YAll Characters:Â§! 250\n\nUnique items available here:\n     Â§GBrettonian ChargerÂ§!;;;;;;;;;;;;;x
 imperial_mount_counter;Imperial Mount Heartlands;;;;;;;;;;;;;x
-imperial_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §YAll Characters:§! 250;;;;;;;;;;;;;x
+imperial_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§YAll Characters:Â§! 250;;;;;;;;;;;;;x
 tilea_mount_counter;Tilea Mount Heartlands;;;;;;;;;;;;;x
-tilea_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GCapital in Old World:§! 250\n     §YOther Characters:§! 200;;;;;;;;;;;;;x
+tilea_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GCapital in Old World:Â§! 250\n     Â§YOther Characters:Â§! 200;;;;;;;;;;;;;x
 estalia_mount_counter;Estalian Mount Heartlands;;;;;;;;;;;;;x
-estalia_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GEstalian:§! 350\n     §YOther Characters:§! 250\n\nUnique items available here:\n     §GJennet§!\n     §GIrranan Mountain Horse§!;;;;;;;;;;;;;x
+estalia_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GEstalian:Â§! 350\n     Â§YOther Characters:Â§! 250\n\nUnique items available here:\n     Â§GJennetÂ§!\n     Â§GIrranan Mountain HorseÂ§!;;;;;;;;;;;;;x
 ellyrian_mount_counter;Ellyrian Mount Heartlands;;;;;;;;;;;;;x
-ellyrian_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GElven Characters:§! 350\n     §YOther Characters:§! 250\n\nUnique items available here:\n     §GElven Courser§!;;;;;;;;;;;;;x
+ellyrian_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GElven Characters:Â§! 350\n     Â§YOther Characters:Â§! 250\n\nUnique items available here:\n     Â§GElven CourserÂ§!;;;;;;;;;;;;;x
 steppes_mount_counter;Chaos Wastes Mount Heartlands;;;;;;;;;;;;;x
-steppes_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GNomadic Characters:§! 1000\n     §YOther Characters:§! 700\n\nUnique items available here:\n     §GSteppe Courser§!\n     §GJurchen Steppe Horse§!;;;;;;;;;;;;;x
+steppes_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GNomadic Characters:Â§! 1000\n     Â§YOther Characters:Â§! 700\n\nUnique items available here:\n     Â§GSteppe CourserÂ§!\n     Â§GJurchen Steppe HorseÂ§!;;;;;;;;;;;;;x
 araby_mount_counter;Arabyan Mount Heartlands;;;;;;;;;;;;;x
-araby_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GArabyan Characters:§! 700\n     §YOther Characters:§! 500\n\nUnique items available here:\n     §GArabyan Courser§!\n     §GArabyan Charger§!\n     §GArabyan Camel§!;;;;;;;;;;;;;x
+araby_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GArabyan Characters:Â§! 700\n     Â§YOther Characters:Â§! 500\n\nUnique items available here:\n     Â§GArabyan CourserÂ§!\n     Â§GArabyan ChargerÂ§!\n     Â§GArabyan CamelÂ§!;;;;;;;;;;;;;x
 cophic_mount_counter;Cophic Mount Heartlands;;;;;;;;;;;;;x
-cophic_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §YAll Characters:§! 400\n\nUnique items available here:\n     §GTeverian Horse§!\n     §GCophic Camel§!;;;;;;;;;;;;;x
+cophic_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§YAll Characters:Â§! 400\n\nUnique items available here:\n     Â§GTeverian HorseÂ§!\n     Â§GCophic CamelÂ§!;;;;;;;;;;;;;x
 ind_mount_counter;Ind Mount Heartlands;;;;;;;;;;;;;x
-ind_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GInd Characters:§! 500\n     §YOther Characters:§! 300\n\nUnique items available here:\n     §GInd Elephant§!\n     §GInd Tiger§!;;;;;;;;;;;;;x
+ind_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GInd Characters:Â§! 500\n     Â§YOther Characters:Â§! 300\n\nUnique items available here:\n     Â§GInd ElephantÂ§!\n     Â§GInd TigerÂ§!;;;;;;;;;;;;;x
 southlands_mount_counter;Southlander Mount Heartlands;;;;;;;;;;;;;x
-southlands_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GSouthlander and Medean Characters:§! 800\n     §YOther Characters:§! 500\n\nUnique items available here:\n     §GSouthland Elephant§!;;;;;;;;;;;;;x
+southlands_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GSouthlander and Medean Characters:Â§! 800\n     Â§YOther Characters:Â§! 500\n\nUnique items available here:\n     Â§GSouthland ElephantÂ§!;;;;;;;;;;;;;x
 kislev_mount_counter;Kislev Mount Heartlands;;;;;;;;;;;;;x
-kislev_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GKislevite and Ursun Characters:§! 400\n     §YOther Characters:§! 200\n\nUnique items available here:\n     §GKislevite War Bear§!;;;;;;;;;;;;;x
+kislev_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GKislevite and Ursun Characters:Â§! 400\n     Â§YOther Characters:Â§! 200\n\nUnique items available here:\n     Â§GKislevite War BearÂ§!;;;;;;;;;;;;;x
 loren_mount_counter;Loren Stag Mount Heartlands;;;;;;;;;;;;;x
-loren_mount_counter_desc;[Root.available_mounts.GetName]: §Y[Root.available_mounts.GetValue]§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your §YCapital§! or any of your §YRealm§! provinces that is §YDejure§! part of your §YPrimary Title§! to this province must be less than:\n     §GAsrai Characters:§! 400\n     §YOther (Elven) Characters:§! 200\n\nUnique items available here:\n     §GAsrai Stag§!;;;;;;;;;;;;;x
+loren_mount_counter_desc;[Root.available_mounts.GetName]: Â§Y[Root.available_mounts.GetValue]Â§!\nDue to it's location or size, this province has become the hub of mount related transactions.\n\nIn order to interact with this province, the distance from your Â§YCapitalÂ§! or any of your Â§YRealmÂ§! provinces that is Â§YDejureÂ§! part of your Â§YPrimary TitleÂ§! to this province must be less than:\n     Â§GAsrai Characters:Â§! 400\n     Â§YOther (Elven) Characters:Â§! 200\n\nUnique items available here:\n     Â§GAsrai StagÂ§!;;;;;;;;;;;;;x
 fair_mounts_1;Fair Mounts;;;;;;;;;;;;;x
-fair_mounts_1_desc;This modifier scales with the amount of §ZFair§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
+fair_mounts_1_desc;This modifier scales with the amount of Â§ZFairÂ§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
 fair_mounts_2;Fair Mounts;;;;;;;;;;;;;x
-fair_mounts_2_desc;This modifier scales with the amount of §ZFair§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
+fair_mounts_2_desc;This modifier scales with the amount of Â§ZFairÂ§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
 fair_mounts_3;Fair Mounts;;;;;;;;;;;;;x
-fair_mounts_3_desc;This modifier scales with the amount of §ZFair§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
+fair_mounts_3_desc;This modifier scales with the amount of Â§ZFairÂ§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
 fair_mounts_4;Fair Mounts;;;;;;;;;;;;;x
-fair_mounts_4_desc;This modifier scales with the amount of §ZFair§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
+fair_mounts_4_desc;This modifier scales with the amount of Â§ZFairÂ§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
 fair_mounts_5;Fair Mounts;;;;;;;;;;;;;x
-fair_mounts_5_desc;This modifier scales with the amount of §ZFair§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
+fair_mounts_5_desc;This modifier scales with the amount of Â§ZFairÂ§! mounts in the character's possession, up to a maximum of five.;;;;;;;;;;;;;x
 mount_increased_trade;Increased Trade;;;;;;;;;;;;;x
 mount_increased_trade_desc;Due to a recent influx of mount traders this province is flourishing.;;;;;;;;;;;;;x
 mount_craftsmen;Skilled Craftsmen;;;;;;;;;;;;;x
@@ -169,17 +210,17 @@ ai_mount_decision_timer;AI mount decision timer;;;;;;;;;;;;;x
 ai_mount_decision_timer_desc;;;;;;;;;;;;;;x
 #####################Scripted triggers and effects#####################
 is_mount_trigger_tooltip;Is a mount;;;;;;;;;;;;;x
-is_fair_mount_trigger_tooltip;Has the §ZFair§! trait;;;;;;;;;;;;;x
-is_robust_mount_trigger_tooltip;Has the §ZRobust§! trait;;;;;;;;;;;;;x
-is_fertile_mount_trigger_tooltip;Has the §ZFertile§! trait;;;;;;;;;;;;;x
-is_powerful_mount_trigger_tooltip;Has the §ZPowerful§! trait;;;;;;;;;;;;;x
-is_swift_mount_trigger_tooltip;Has the §ZSwift§! trait;;;;;;;;;;;;;x
+is_fair_mount_trigger_tooltip;Has the Â§ZFairÂ§! trait;;;;;;;;;;;;;x
+is_robust_mount_trigger_tooltip;Has the Â§ZRobustÂ§! trait;;;;;;;;;;;;;x
+is_fertile_mount_trigger_tooltip;Has the Â§ZFertileÂ§! trait;;;;;;;;;;;;;x
+is_powerful_mount_trigger_tooltip;Has the Â§ZPowerfulÂ§! trait;;;;;;;;;;;;;x
+is_swift_mount_trigger_tooltip;Has the Â§ZSwiftÂ§! trait;;;;;;;;;;;;;x
 is_breeding_only_trigger_tooltip;Is a rare breed;;;;;;;;;;;;;x
-increase_mount_health_effect_tooltip;[This.GetName]'s health §Gincreases§!;;;;;;;;;;;;;x
-decrease_mount_health_effect_tooltip;[This.GetName]'s health §Rdecreases§!;;;;;;;;;;;;;x
-mount_slighty_increase_prosperity_effect_tooltip;The prosperty of §Y[Root.GetName]§! slightly increases;;;;;;;;;;;;;x
-mount_increase_prosperity_effect_tooltip;The prosperty of §Y[Root.GetName]§! increases;;;;;;;;;;;;;x
-mount_greatly_increase_prosperity_effect_tooltip;The prosperty of §Y[Root.GetName]§! greatly increases;;;;;;;;;;;;;x
+increase_mount_health_effect_tooltip;[This.GetName]'s health Â§GincreasesÂ§!;;;;;;;;;;;;;x
+decrease_mount_health_effect_tooltip;[This.GetName]'s health Â§RdecreasesÂ§!;;;;;;;;;;;;;x
+mount_slighty_increase_prosperity_effect_tooltip;The prosperty of Â§Y[Root.GetName]Â§! slightly increases;;;;;;;;;;;;;x
+mount_increase_prosperity_effect_tooltip;The prosperty of Â§Y[Root.GetName]Â§! increases;;;;;;;;;;;;;x
+mount_greatly_increase_prosperity_effect_tooltip;The prosperty of Â§Y[Root.GetName]Â§! greatly increases;;;;;;;;;;;;;x
 #####################DECISIONS#####################
 mount_market;Visit the Mount Market;;;;;;;;;;;;;x
 mount_market_desc;The Mount Market is where you can access all mounts and their related equipment.;;;;;;;;;;;;;x
@@ -198,9 +239,9 @@ sell_mount_decision_score_2;Is in great health;;;;;;;;;;;;;x
 sell_mount_decision_score_3;Is in poor health;;;;;;;;;;;;;x
 sell_mount_decision_score_4;Is in very poor health;;;;;;;;;;;;;x
 cathayan_horse_decision;Request a Cathayan Horse;;;;;;;;;;;;;x
-cathayan_horse_decision_desc;The horses of §Y[Root.Offmap.GetFullName]§! are famed for their beauty and strength. You can request one of them for your personal use.;;;;;;;;;;;;;x
-cathayan_horse_decision_effect1;Since the §Y[offmap_cathay.GetFullName]§! is suffering from famine or plague, the horse's health is §Rreduced§!!;;;;;;;;;;;;;x
-cathayan_horse_decision_effect2;You will receive a §YHorse from Cathay§!!;;;;;;;;;;;;;x
+cathayan_horse_decision_desc;The horses of Â§Y[Root.Offmap.GetFullName]Â§! are famed for their beauty and strength. You can request one of them for your personal use.;;;;;;;;;;;;;x
+cathayan_horse_decision_effect1;Since the Â§Y[offmap_cathay.GetFullName]Â§! is suffering from famine or plague, the horse's health is Â§RreducedÂ§!!;;;;;;;;;;;;;x
+cathayan_horse_decision_effect2;You will receive a Â§YHorse from CathayÂ§!!;;;;;;;;;;;;;x
 ai_mount_decision;AI mount manager;;;;;;;;;;;;;x
 ai_mount_decision_desc;.;;;;;;;;;;;;;x
 #####################MAINTENANCE EVENTS#####################
@@ -245,15 +286,15 @@ EVTOPTBmarket.5;An Enduring Bastiladon;;;;;;;;;;;;;x
 EVTOPTCmarket.5;Build a Cold One Chariot;;;;;;;;;;;;;x
 EVTDESCmarket.6;A mighty warlord needs a proppa mount!;;;;;;;;;;;;;x
 EVTOPTAmarket.6;An Arachnid;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.6;§GTaming an arachnid as a worshipper of the spider god is the highest honor§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.6;Â§GTaming an arachnid as a worshipper of the spider god is the highest honorÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.6;A Mighty Squig;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.6;§GForcin' a squig to carry you to battle should be an easy task§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.6;Â§GForcin' a squig to carry you to battle should be an easy taskÂ§!;;;;;;;;;;;;;x
 EVTOPTCmarket.6;A Hinterland Wolf;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.6;§GSubjugatin' a wolf would prove your combat abilities as well as inspire more gobos to follow you§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.6;Â§GSubjugatin' a wolf would prove your combat abilities as well as inspire more gobos to follow youÂ§!;;;;;;;;;;;;;x
 EVTOPTDmarket.6;A Gigantic Boar;;;;;;;;;;;;;x
-EVTTOOLTIPDmarket.6;§GSubjugatin' a boar would show da boyz whos tuff enough to lead 'em§!;;;;;;;;;;;;;x
+EVTTOOLTIPDmarket.6;Â§GSubjugatin' a boar would show da boyz whos tuff enough to lead 'emÂ§!;;;;;;;;;;;;;x
 EVTOPTEmarket.6;Build a Boar Chariot;;;;;;;;;;;;;x
-EVTTOOLTIPEmarket.6;§GGet dat Gobo engineer git here, i want da chariot§!;;;;;;;;;;;;;x
+EVTTOOLTIPEmarket.6;Â§GGet dat Gobo engineer git here, i want da chariotÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.7;Horses;;;;;;;;;;;;;x
 EVTDESCmarket.7;There are many types of horses in the world. From the simple Rouncey to the heaviest of Warhorses.;;;;;;;;;;;;;x
 EVTOPTAmarket.7;Cheap horses;;;;;;;;;;;;;x
@@ -263,50 +304,50 @@ EVTTITLEmarket.8;Low Quality;;;;;;;;;;;;;x
 EVTDESCmarket.8;There is certainly room for improvement with these beasts.;;;;;;;;;;;;;x
 EVTOPTHALFmarket.8;The Pony;;;;;;;;;;;;;x
 EVTOPTAmarket.8;The Dray Horse;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.8;§GDray Horses are generally used as pack animals§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.8;Â§GDray Horses are generally used as pack animalsÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.8;A Rouncey will do;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.8;§GRounceys are generic work horses, they provice no combat bonuses but are better than walking§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.8;Â§GRounceys are generic work horses, they provice no combat bonuses but are better than walkingÂ§!;;;;;;;;;;;;;x
 EVTOPTCmarket.8;A noble Palfry;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.8;§GPalfrys are mostly ceromonial horses that are popular with nobles§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.8;Â§GPalfrys are mostly ceromonial horses that are popular with noblesÂ§!;;;;;;;;;;;;;x
 EVTOPTAmarket.9;A Hobby;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.9;§GHobbys are light skirmishing horses which have a high chance of being fertile§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.9;Â§GHobbys are light skirmishing horses which have a high chance of being fertileÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.9;A Jennet;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.9;§GThe Eestalin Jennet is a small light warhorse with a high chance of being fertile§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.9;Â§GThe Eestalin Jennet is a small light warhorse with a high chance of being fertileÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.10;Medium Quality;;;;;;;;;;;;;x
 EVTDESCmarket.10;Respectable horses that will not fail you.;;;;;;;;;;;;;x
 EVTOPTAmarket.10;A Courser;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.10;§GOriginally used as hunting horses, Coursers have become a common sight in the battlefield due to their speed§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.10;Â§GOriginally used as hunting horses, Coursers have become a common sight in the battlefield due to their speedÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.10;A Destrier;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.10;§GDestriers are generic warhorses, they are slower than Coursers but are more effective in close combat§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.10;Â§GDestriers are generic warhorses, they are slower than Coursers but are more effective in close combatÂ§!;;;;;;;;;;;;;x
 EVTOPTCmarket.10;The strong Bretonnian Charger;;;;;;;;;;;;;x
 EVTOPTDmarket.10;The Galician Mountain Horse;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.10;§GThese horses are highly effective in rugged terrain and effective in close combat§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.10;Â§GThese horses are highly effective in rugged terrain and effective in close combatÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.11;High Quality;;;;;;;;;;;;;x
 EVTDESCmarket.11;These are some of the best horses in the world. Wonderous and terrible in equal measure on the battlefield.;;;;;;;;;;;;;x
 EVTOPTAmarket.11;A Dark Destrier;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.11;§GThis Destrier has adapted to the harsh climate of the Land of Chill, improving it's physical capabilities.[GetMountPrefixDesc]§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.11;Â§GThis Destrier has adapted to the harsh climate of the Land of Chill, improving it's physical capabilities.[GetMountPrefixDesc]Â§!;;;;;;;;;;;;;x
 EVTOPTBmarket.11;A Fearless Cold One;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.11;§GCold ones are Rapacious Predators, fuelled by savage blood-lust that drives them to attack any warm-blooded creature that comes near. To get a Cold One, you must either find it while its young or Pay the Beastmasters for one§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.11;Â§GCold ones are Rapacious Predators, fuelled by savage blood-lust that drives them to attack any warm-blooded creature that comes near. To get a Cold One, you must either find it while its young or Pay the Beastmasters for oneÂ§!;;;;;;;;;;;;;x
 EVTOPTCmarket.11;A Cold One Chariot;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.11;§GUpgrade your cold one to a chariot§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.11;Â§GUpgrade your cold one to a chariotÂ§!;;;;;;;;;;;;;x
 EVTOPTDmarket.11;A War Charger;;;;;;;;;;;;;x
-EVTTOOLTIPDmarket.11;§GChargers are Destriers specifically bred for war§!;;;;;;;;;;;;;x
+EVTTOOLTIPDmarket.11;Â§GChargers are Destriers specifically bred for warÂ§!;;;;;;;;;;;;;x
 EVTOPTEmarket.11;A Steppe Courser;;;;;;;;;;;;;x
-EVTTOOLTIPEmarket.11;§GCoursers are specifically bred for speed§!;;;;;;;;;;;;;x
+EVTTOOLTIPEmarket.11;Â§GCoursers are specifically bred for speedÂ§!;;;;;;;;;;;;;x
 EVTOPTAmarket.12;An Asurian Courser;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.12;§GThe Asur are famous for their swift cavalry, making their horses ideal for skirmishes§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.12;Â§GThe Asur are famous for their swift cavalry, making their horses ideal for skirmishesÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.12;An Arabyan Courser;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.12;§GArabyan horses are light and suited to the harsh deserts in Araby, they also have a high chance of being fair§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.12;Â§GArabyan horses are light and suited to the harsh deserts in Araby, they also have a high chance of being fairÂ§!;;;;;;;;;;;;;x
 EVTOPTCmarket.12;An Arabyan Charger;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.12;§GUnlike the Arabyan Courser, this horse is ideal for close combat and has a high chance of being fair§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.12;Â§GUnlike the Arabyan Courser, this horse is ideal for close combat and has a high chance of being fairÂ§!;;;;;;;;;;;;;x
 EVTOPTAmarket.13;Tong Steppe Horse;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.13;§GThe deadly Tong Hordes raid the lands of Cathay and Darklands regularly with the help of their swift and powerful horses§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.13;Â§GThe deadly Tong Hordes raid the lands of Cathay and Darklands regularly with the help of their swift and powerful horsesÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.13;Charger of the Chaos Wastes;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.13;§GThe mutated warhorses of the Wastes have proven more than a match for their southern cousins, being heavily favored by the Warlords of the Dark Gods§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.13;Â§GThe mutated warhorses of the Wastes have proven more than a match for their southern cousins, being heavily favored by the Warlords of the Dark GodsÂ§!;;;;;;;;;;;;;x
 EVTOPTCmarket.13;Bretonnian Warhorse;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.13;§GThe Bretonnian Cavalry is one of the most powerful mounted forces in old World, meant to be in the very center of the battlefield§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.13;Â§GThe Bretonnian Cavalry is one of the most powerful mounted forces in old World, meant to be in the very center of the battlefieldÂ§!;;;;;;;;;;;;;x
 EVTOPTDmarket.13;Tevarian Horse;;;;;;;;;;;;;x
-EVTTOOLTIPDmarket.13;§GThese horses are decendants of imported horses from Ulthuan, and are made to be perfect for offense, they also have an increased chance of being fair§!;;;;;;;;;;;;;x
+EVTTOOLTIPDmarket.13;Â§GThese horses are decendants of imported horses from Ulthuan, and are made to be perfect for offense, they also have an increased chance of being fairÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.14;Camels, Elephants, Mammoths;;;;;;;;;;;;;x
 EVTDESCmarket.14;Camels are mostly found in the South, while elephants are found in both the East and South, mammoths are found exclusively in the North.;;;;;;;;;;;;;x
 EVTOPTAmarket.14;Camels;;;;;;;;;;;;;x
@@ -314,44 +355,44 @@ EVTOPTBmarket.14;Elephants;;;;;;;;;;;;;x
 EVTOPTCmarket.14;Mammoths;;;;;;;;;;;;;x
 EVTTITLEmarket.15;Camels;;;;;;;;;;;;;x
 EVTOPTAmarket.15;An Arabyan Camel;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.15;§GArabyan Camels are well suited to traveling the harsh deserts of Araby, they are also quite fearless§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.15;Â§GArabyan Camels are well suited to traveling the harsh deserts of Araby, they are also quite fearlessÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.15;An Cophic Camel;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.15;§GCophic Camels are slow due to the rugged terrain around their homes, they are used mainly as pack animals§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.15;Â§GCophic Camels are slow due to the rugged terrain around their homes, they are used mainly as pack animalsÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.16;Elephants;;;;;;;;;;;;;x
 EVTOPTAmarket.16;An Indish Elephant;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.16;§GWhile not as big as their Southlander cousins, these elephants are faster and are still a force to be reckoned with§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.16;Â§GWhile not as big as their Southlander cousins, these elephants are faster and are still a force to be reckoned withÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.16;A Southland Elephant;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.16;§GThe large Southland Elephant is a slow but destructive weapon of war§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.16;Â§GThe large Southland Elephant is a slow but destructive weapon of warÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.17;Mammoths;;;;;;;;;;;;;x
 EVTOPTAmarket.17;A Mammoth;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.17;§GOnce common in the world, before the Old Ones brought the planet closer to the sun. Today, only a few of these huge and majestic monstrosities survive to roam the northern world§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.17;Â§GOnce common in the world, before the Old Ones brought the planet closer to the sun. Today, only a few of these huge and majestic monstrosities survive to roam the northern worldÂ§!;;;;;;;;;;;;;x
 EVTTITLEmarket.18;Exotic Mounts;;;;;;;;;;;;;x
 EVTDESCmarket.18;Some wild beasts were never meant to be made into mounts, but who's to stop the strong and clever from trying?;;;;;;;;;;;;;x
 EVTOPTAmarket.18;The great Lamassu;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.18;§The Lammasu are a Manticore-like Chaos creatures with the body of a gigantic bull, a powerful mace-tipped tail and a massive, ugly head§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.18;Â§The Lammasu are a Manticore-like Chaos creatures with the body of a gigantic bull, a powerful mace-tipped tail and a massive, ugly headÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.18;The great Taurus;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.18;§A Great Taurus is wreathed in fire and smoke. Indeed, so angrily and so hot does the Great Taurus' skin burn, that swords and axes become molten and blunt in the very process of striking it.§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.18;Â§A Great Taurus is wreathed in fire and smoke. Indeed, so angrily and so hot does the Great Taurus' skin burn, that swords and axes become molten and blunt in the very process of striking it.Â§!;;;;;;;;;;;;;x
 EVTOPTCmarket.18;A fierce Tiger;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.18;§GThe tigers of Ind and Lustria are deadly hunters, able to easily ambush their prey in dense jungles§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.18;Â§GThe tigers of Ind and Lustria are deadly hunters, able to easily ambush their prey in dense junglesÂ§!;;;;;;;;;;;;;x
 EVTOPTDmarket.18;A Flying Carpet;;;;;;;;;;;;;x
-EVTTOOLTIPDmarket.18;§GThe sorcerers of Araby have perfected the art of binding aerial spirits into physical forms - not least of which is the famous Flying Carpet§!;;;;;;;;;;;;;x
+EVTTOOLTIPDmarket.18;Â§GThe sorcerers of Araby have perfected the art of binding aerial spirits into physical forms - not least of which is the famous Flying CarpetÂ§!;;;;;;;;;;;;;x
 EVTOPTEmarket.18;A Wyvern Mount;;;;;;;;;;;;;x
-EVTTOOLTIPEmarket.18;§GVery rare are the few that are able to go in to the skys with wyverns§!;;;;;;;;;;;;;x
+EVTTOOLTIPEmarket.18;Â§GVery rare are the few that are able to go in to the skys with wyvernsÂ§!;;;;;;;;;;;;;x
 EVTOPTFmarket.18;A War Bear;;;;;;;;;;;;;x
-EVTTOOLTIPFmarket.18;§GThese large bears make their homes in the cold forests of the north, making the effects of winter negligible§!;;;;;;;;;;;;;x
+EVTTOOLTIPFmarket.18;Â§GThese large bears make their homes in the cold forests of the north, making the effects of winter negligibleÂ§!;;;;;;;;;;;;;x
 EVTOPTPmarket.18;A Pegasus;;;;;;;;;;;;;x
-EVTTOOLTIPGmarket.18;§GThese Pegasus are accustomed to mountainous areas and known for their fast flight, making them hard to catch§!;;;;;;;;;;;;;x
+EVTTOOLTIPGmarket.18;Â§GThese Pegasus are accustomed to mountainous areas and known for their fast flight, making them hard to catchÂ§!;;;;;;;;;;;;;x
 EVTOPTGmarket.18;A Griffon;;;;;;;;;;;;;x
-EVTTOOLTIPGmarket.18;§GThese Griffons are accustomed to mountainous areas and known for their prowess, making them hard to tame or acquire§!;;;;;;;;;;;;;x
+EVTTOOLTIPGmarket.18;Â§GThese Griffons are accustomed to mountainous areas and known for their prowess, making them hard to tame or acquireÂ§!;;;;;;;;;;;;;x
 EVTOPTAmarket.19;A swift Stag;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.19;§GThe Asrai are one of the few that practice Deer husbandry, these Deer are quite fast which makes them ideal for skirmish tactics§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.19;Â§GThe Asrai are one of the few that practice Deer husbandry, these Deer are quite fast which makes them ideal for skirmish tacticsÂ§!;;;;;;;;;;;;;x
 EVTOPTBmarket.19;A Pheonix;;;;;;;;;;;;;x
-EVTTOOLTIPBmarket.19;§GA Phoenix is a magical avian beast of Ulthuan in the form of a giant raptor that possesses innate control over fire and eventually frost if it lives long enough.§!;;;;;;;;;;;;;x
+EVTTOOLTIPBmarket.19;Â§GA Phoenix is a magical avian beast of Ulthuan in the form of a giant raptor that possesses innate control over fire and eventually frost if it lives long enough.Â§!;;;;;;;;;;;;;x
 EVTOPTCmarket.19;A Great Eagle;;;;;;;;;;;;;x
-EVTTOOLTIPCmarket.19;§GGreat Eagles are the largest birds of prey in the Empire, with a wingspan that measures over thirty feet and having razor-sharp talons§!;;;;;;;;;;;;;x
+EVTTOOLTIPCmarket.19;Â§GGreat Eagles are the largest birds of prey in the Empire, with a wingspan that measures over thirty feet and having razor-sharp talonsÂ§!;;;;;;;;;;;;;x
 EVTDESCmarket.21;[Root.GetGovernorLetterGreeting]. [Root.GetChineseLetterBlessing].\n\nThe heavenly [From.Offmap.Ruler.GetLongChineseEmperorName], has graciously fulfilled your wish. A fine horse of Chinese origins will be bestowed upon you.;;;;;;;;;;;;;x
 EVTOPTAmarket.21;Truly a magnificent beast!;;;;;;;;;;;;;x
-EVTTOOLTIPAmarket.21;Since the §Y[offmap_cathay.GetFullName]§! is suffering from famine or plague, the horse's health is §Rreduced§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmarket.21;Since the Â§Y[offmap_cathay.GetFullName]Â§! is suffering from famine or plague, the horse's health is Â§RreducedÂ§!;;;;;;;;;;;;;x
 EVTDESAmountshop.104;Oh noble Incitatus, you are too good for these fools. Let us ride forth once more so that all may look upon us in awe!;;;;;;;;;;;;;x
 EVTOPTAmountshop.104;Onwards my trusty steed!;;;;;;;;;;;;;x
 EVTDESAmountshop.106;Unfortunately none of the nearby Heartlands can supply you with a horse for [FromFrom.GetBestName];;;;;;;;;;;;;x
@@ -396,7 +437,7 @@ EVTOPTAmountshop.402;Excellent;;;;;;;;;;;;;x
 EVTTOOLTIPAmountshop.402;Will gain a random trait;;;;;;;;;;;;;x
 EVTDESAmountshop.403;Always on the move, nomadic life is difficult but that is what makes true men. Your faithful [improved_horse.GetName] has gotten used to running long distances.;;;;;;;;;;;;;x
 EVTOPTAmountshop.403;Speed is always good;;;;;;;;;;;;;x
-EVTTOOLTIPAmountshop.403;will become §GSwift§!;;;;;;;;;;;;;x
+EVTTOOLTIPAmountshop.403;will become Â§GSwiftÂ§!;;;;;;;;;;;;;x
 EVTDESAmountshop.404;You've been blessed with a few hours of peace. As you stroll about your halls, you wonder if you should perhaps take one of your [random_mount.GetMountType]s on a ride, but where to?;;;;;;;;;;;;;x
 EVTOPTAmountshop.404;A leisurely ride around my lands;;;;;;;;;;;;;x
 EVTOPTBmountshop.404;I think I'll go hunting;;;;;;;;;;;;;x
